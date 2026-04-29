@@ -1,4 +1,4 @@
-package com.ask.catalog_service;
+package com.ask.bookstore.catalog;
 
 import org.springframework.boot.testcontainers.service.connection.ServiceConnection;
 import org.springframework.context.annotation.Bean;
